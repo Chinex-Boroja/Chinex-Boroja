@@ -1,4 +1,4 @@
-### Hi :wave:, I am Ihedioha, Chinedu Innocent
+### Hi :wave:, I am **Ihedioha, Chinedu Innocent**
 
 - 🔭 I’m currently working on extensive Android Application Projects using Kotlin
 - 🌱 I’m currently learning Android Development with Kotlin
