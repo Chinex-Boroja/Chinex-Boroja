@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on extensive Android Application Projects using Kotlin
 - 🌱 I’m currently learning Android Development with Kotlin
-- 👯 I’m looking to collaborate on Mobile applications developments and Open Source Projects 
+- 👯 I’m looking forward to collaborate on Mobile applications developments and Open Source Projects 
 - 💬 Ask me about Java, JavaFX, Android, Kotlin and Extended Markup Language.
 - 📫 How to reach me: ihediohachinedu21@gmail.com
 - 😄 Pronouns: He/Him
