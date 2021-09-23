@@ -8,9 +8,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Playing Football, Researching and Writing.
 <hr>
-  <summary>Github Statistics</summary>
+  <summary>Github Statistics....</summary>
   <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Chinex-Boroja&theme=github_dark&show_icons=true&count_private=true&border_radius=10/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Chinex-Boroja&theme=github_dark&show_icons=true&count_private=true"/>
   </p>
 <hr>
   
