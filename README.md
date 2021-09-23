@@ -20,4 +20,4 @@
   </p>
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boroja)](https://github.com/Chinex-Boroja/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinex-Boroja)](https://github.com/Chinex-Boroja/github-readme-stats)
