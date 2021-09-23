@@ -14,7 +14,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinex-Boroja&theme=github_dark&border_radius=10" />
   </p>
   
-  <summary>Chinex_Boroja's wakatime stats....</summary>
+  <summary>Chinex_Boroja's wakatime Statistics....</summary>
   <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChinexBoroja&theme=github_dark&border_radius=10"/>
   </p>
