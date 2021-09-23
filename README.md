@@ -11,7 +11,7 @@
   <summary>Github Statistics....</summary>
   <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api?username=Chinex-Boroja&theme=github_dark&show_icons=true&count_private=true&border_radius =10"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinex-Boroja-62&theme=github_dark&border_radius=10" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinex-Boroja&theme=github_dark&border_radius=10" />
   </p>
   
   <summary>Chinex_Boroja's wakatime stats....</summary>
