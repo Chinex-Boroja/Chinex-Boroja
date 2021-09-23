@@ -9,20 +9,20 @@
 - ⚡ Fun fact: I love Playing Football, Researching and Writing.
 <hr>
 <details>
-  <summary>Github Statistics...</summary>
+  <summary>Github Statistics</summary>
   <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api?username=Chinex-Boroja&theme=github_dark&show_icons=true&count_private=true"/>
   </p>
   </details>
   
   <details>
-  <summary>Language Statistics...</summary><br/>
+  <summary>Language Statistics</summary><br/>
   <p align = "center">
     <img src="https://wakatime.com/share/@ChinexBoroja/0e12bad2-79da-4bd1-b69c-f497d207ca8e.svg" height="400">
   </p>
   </details>
   <hr>
-
-
+  
+ 
 
 
