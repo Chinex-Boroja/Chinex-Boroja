@@ -19,5 +19,3 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChinexBoroja&theme=github_dark&border_radius=10"/>
   </p>
 <hr>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinex-Boroja)](https://github.com/Chinex-Boroja/github-readme-stats)
