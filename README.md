@@ -8,6 +8,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Playing Football, Researching and Writing.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinex-Boroja&count_private=true)
+
+
 <hr>
 <details>
   <summary>Github Statistics...</summary>
