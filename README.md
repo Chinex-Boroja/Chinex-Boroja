@@ -7,15 +7,11 @@
 - 📫 How to reach me: ihediohachinedu21@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Playing Football, Researching and Writing.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinex-Boroja&count_private=true)
-
-
 <hr>
 <details>
   <summary>Github Statistics...</summary>
   <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Chinex-Boroja&theme=github_dark&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Chinex-Boroja&theme=github_dark&show_icons=true&count_private=true"/>
   </p>
   </details>
   
