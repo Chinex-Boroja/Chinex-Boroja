@@ -9,17 +9,12 @@
 - 💬 Ask me about Java, JavaFX, Android, Kotlin and Extended Markup Language.
 - ⚡ Fun fact: I love Playing Football, Researching and Writing.
 
-### Languages and Tools:
-
-<hr>
-  <summary>Github Statistics....</summary> 
+### Github and WakaTime Statistics.
   <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api?username=Chinex-Boroja&theme=github_dark&show_icons=true&count_private=true&border_radius =10"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinex-Boroja&theme=github_dark&border_radius=10" />
   </p>
   
-  <summary>## :Chinex_Boroja's wakatime Statistics....</summary>
   <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChinexBoroja&theme=github_dark&border_radius=10"/>
   </p>
-<hr>
