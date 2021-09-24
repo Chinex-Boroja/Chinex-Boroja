@@ -15,8 +15,8 @@
 ## :handshake:   Connect with me!
 
 - Mail: ihediohachinedu21@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/chinedu-inno-ihedioha24/](https://www.linkedin.com/in/chinedu-inno-ihedioha24/)
-- Twitter: [@_Chinex_Boroja](https://twitter.com/__webdot)
+- LinkedIn: [Chinedu Ihedioha](https://www.linkedin.com/in/chinedu-inno-ihedioha24/)
+- Twitter: [Chinex_Boroja](https://twitter.com/__webdot)
 - Hashnode: [Chinex_Boroja](https://chinexboroja24.hashnode.dev/)
 
 <br />
@@ -29,8 +29,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" alt="github" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jetbrains/jetbrains.png" alt="Intelli J" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/intelli-j/intelli-j.png" alt="Intelli J" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <br />
