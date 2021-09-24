@@ -2,8 +2,6 @@
 
 ## Hi, I'm Ihedioha Chinedu Innocent  👋
 
-&nbsp;
-
 ### I am a Student of the Game and Constantly Learning!!!
 
 - 🔭 I’m currently working on extensive Android Application Projects using Kotlin
@@ -12,7 +10,7 @@
 - 💬 Ask me about Java, JavaFX, Android, Kotlin and Extended Markup Language.
 - ⚡ Fun fact: I love Playing Football, Researching and Writing.
 
-&nbsp;
+<br />
 
 ### Github and WakaTime Statistics:
 
@@ -24,4 +22,5 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChinexBoroja&theme=github_dark&border_radius=10"/>
   </p>
   
-&nbsp;
+<br />
+  
