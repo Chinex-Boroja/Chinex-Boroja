@@ -10,6 +10,8 @@
 - 💬 Ask me about Java, JavaFX, Android, Kotlin and Extended Markup Language.
 - ⚡ Fun fact: I love Playing Football, Researching and Writing.
 
+&nbsp
+
 ### Github and WakaTime Statistics:
 
   <p align = "center">
@@ -19,3 +21,5 @@
   <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChinexBoroja&theme=github_dark&border_radius=10"/>
   </p>
+  
+  &nbsp
