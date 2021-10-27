@@ -2,7 +2,7 @@
 
 <br />
 
-## I am a Student of the Game and Constantly Learning!!!
+## I am Constantly Learning!!!
 
 - 🔭 I’m currently working on extensive Android Application Projects using Kotlin
 - 🌱 I’m currently learning Android Development with Kotlin
