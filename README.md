@@ -2,13 +2,9 @@
 
 <br />
 
-## I am Constantly Learning!!!
-
-- 🔭 I’m currently working on extensive Android Application Projects using Kotlin
-- 🌱 I’m currently learning Android Development with Kotlin
-- 👯 I’m looking forward to collaborate more on Mobile applications developments and Open Source Projects 
-- 💬 Ask me about Java, JavaFX, Android, Kotlin and Extended Markup Language.
-- ⚡ Fun fact: I love Playing Football, Researching and Writing.
+- 🔭 I’m currently working on extensive Android Application Projects using Kotlin.
+- 👯 I’m looking forward to collaborate more on Mobile applications developments.
+- 💬 Ask me about Java, Android, Kotlin and Extended Markup Language.
 
 <br />
 
@@ -16,8 +12,7 @@
 
 - Mail: ihediohachinedu21@gmail.com
 - LinkedIn: [Chinedu Ihedioha](https://www.linkedin.com/in/chinedu-inno-ihedioha24/)
-- Twitter: [Chinex_Boroja](https://twitter.com/__webdot)
-- Hashnode: [Chinex_Boroja](https://chinexboroja24.hashnode.dev/)
+- Twitter: [Chinex_Boroja](https://twitter.com/Chinex_Boroja)
 
 <br />
 
