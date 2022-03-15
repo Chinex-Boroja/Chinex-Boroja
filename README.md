@@ -1,9 +1,8 @@
-# Hi, I'm Ihedioha Chinedu Innocent  👋
+# Hi, I'm Chinedu👋
 
 <br />
 
-- 🔭 I’m currently working on extensive Android Application Projects using Kotlin.
-- 👯 I’m looking forward to collaborate more on Mobile applications developments.
+- 👯 I’m looking forward to collaborate more on Mobile Application Projects with Kotlin.
 - 💬 Ask me about Java, Android, Kotlin and Extended Markup Language.
 
 <br />
