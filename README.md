@@ -2,7 +2,7 @@
 
 <br />
 
-- 👯 I’m looking forward to collaborate more on Mobile Application Projects with Kotlin and Java projects using SpringBoot for Backend Development.
+- 👯 I’m looking forward to collaborate more on Mobile Application Projects with Kotlin and Java Projects using SpringBoot for Backend Development.
 - 💬 Ask me about Java, Android, Kotlin and SpringBoot.
 
 <br />
