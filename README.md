@@ -2,8 +2,8 @@
 
 <br />
 
-- 👯 I’m looking forward to collaborate more on Mobile Application Projects with Kotlin.
-- 💬 Ask me about Java, Android, Kotlin and Extended Markup Language.
+- 👯 I’m looking forward to collaborate more on Mobile Application Projects with Kotlin and Java projects using SpringBoot to Backend Development.
+- 💬 Ask me about Java, Android, Kotlin and SpringBoot.
 
 <br />
 
