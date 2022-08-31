@@ -3,7 +3,6 @@
 <br />
 
 - 👯 I’m looking forward to collaborate more on Mobile Application Projects with Kotlin and Java Projects using SpringBoot for Backend Development.
-- 💬 Ask me about Java, Android, Kotlin and SpringBoot.
 
 <br />
 
@@ -11,7 +10,6 @@
 
 - Mail: ihediohachinedu21@gmail.com
 - LinkedIn: [Chinedu Ihedioha](https://www.linkedin.com/in/chinedu-inno-ihedioha24/)
-- Twitter: [Chinex_Boroja](https://twitter.com/Chinex_Boroja)
 
 <br />
 
@@ -31,7 +29,6 @@
 
 ## Github and WakaTime Statistics :chart_with_upwards_trend::
   <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Chinex-Boroja&theme=github_dark&show_icons=true&count_private=true&border_radius =10"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinex-Boroja&theme=github_dark&border_radius=10" />
   </p>
   <p align = "center">
