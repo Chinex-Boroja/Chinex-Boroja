@@ -2,7 +2,7 @@
 
 <br />
 
-- 👯 I’m looking forward to collaborate more on Mobile Application Projects with Kotlin and Java Projects using SpringBoot for Backend Development.
+- 👯 I’m looking forward to collaborate more on exciting projects with Java, Springboot, Kotlin, and on web development.
 
 <br />
 
