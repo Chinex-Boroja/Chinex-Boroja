@@ -2,7 +2,7 @@
 
 <br />
 
-- 👯 I’m looking forward to collaborate more on exciting projects with Java, Springboot, Kotlin, and on web development.
+- 👯 I look forward to collaborating more on exciting projects with Java, Springboot, Kotlin, and web development.
 
 <br />
 
@@ -27,13 +27,13 @@
 
 <br />
 
-<!--## Github and WakaTime Statistics :chart_with_upwards_trend:: -->
- <!-- <p align = "center">
+## Github and WakaTime Statistics :chart_with_upwards_trend::
+ <p align = "center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinex-Boroja&theme=github_dark&border_radius=10" />
-  </p> -->
-<!--   <p align = "center">
+  </p>
+<p align = "center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChinexBoroja&theme=github_dark&border_radius=10"/>
-  </p> -->
+</p>
   
 
   
