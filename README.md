@@ -3,9 +3,9 @@
 
 ## :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp; I am a Backend Engineer who is passionate about solving problems and building scalable systems.\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp; Love writing Technical Articles and Contributing to `Open Source Projects`.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp; Love problem solving and I am daily solving `Leetcode` DSA challenges .\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp; I am a `Backend Engineer` who is passionate about solving problems and building scalable systems.\
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp; I love writing `Technical Articles` and contributing to `Open Source Projects`.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp; I love coding challenges, and I am solving `Leetcode` DSA challenges daily.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp; I hold a Bachelor's Degree in Computer Engineering from [OAU](https://oauife.edu.ng/) .\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp; My coding journey started in late 2020, which cut across Android Development, Backend, and Frontend Development.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp; Currently learning Frontend development through a scholarship from [DevCareer Tech Program](https://devcareer.io/government/dctp).\
@@ -21,6 +21,18 @@
   <a href="https://medium.com/@ihediohachinedu21/"><img src="https://img.shields.io/badge/medium-%888888.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/chinedu-inno-ihedioha24/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+## &#x270d; Blog & Writing
+
+Aside from writing codes, I have an active blog site, where I document my learning milestones and other new things I am learning
+
+_My recently published articles_:
+
+<!-- BLOG-POST-LIST:START -->
+- [JPA vs Hibernate-ORM in Java applications](https://medium.com/@ihediohachinedu21/understanding-the-key-differences-jpa-vs-hibernate-orm-in-java-applications-f7c56b980dad)
+- [Exploring the Best Practices for Organizing a Spring Boot Project](https://chinexboroja24.hashnode.dev/exploring-the-best-practices-for-organizing-a-spring-boot-project)
+- [Understanding Web Accessibility](https://chinexboroja24.hashnode.dev/understanding-web-accessibility)
+<!-- BLOG-POST-LIST:END -->
   
 
 ## Tools and Technologies:
@@ -89,7 +101,7 @@
 ## Github and WakaTime Statistics :gear:
 
  <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinex-boroja&hide_border=true&theme=nightowl&border_radius=10" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinex-boroja&theme=nightowl&border_radius=10" />
     </p>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=chinex-boroja&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl&border_radius=10" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinex-boroja&hide=html&layout=compact&langs_count=8&theme=nightowl&border_radius=10" />
@@ -104,12 +116,11 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChinexBoroja&theme=github_dark&border_radius=10"/>
 </p> -->
 
-   
-
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=chinex-boroja&style=plastic&label=Views"><img>
+<img src="https://komarev.com/ghpvc/?username=Chinex-Boroja&label=Profile%20views&color=0e75b6&style=flat" alt="ihediohachinedu" />
 <img src="https://badges.pufler.dev/visits/chinex-boroja/chinex-boroja?color=black&logo=github" />
+
 </p>
   
 
