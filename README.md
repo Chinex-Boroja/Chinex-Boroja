@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://twitter.com/Chinex_Boroja"><img src="https://img.shields.io/badge/twitter-%233B5998.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://chinexboroja24.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-%23dc2645.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@ihediohachinedu21/"><img src="https://img.shields.io/badge/medium-%888888.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@ihediohachinedu21/"><img src="https://img.shields.io/badge/medium-%23dc2645.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/chinedu-inno-ihedioha24/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
