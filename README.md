@@ -43,7 +43,7 @@ _My recently published articles_:
 ![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
 ![Thymeleaf](https://img.shields.io/badge/THYMELEAF-6DB33F.svg?&style=flat&logo=thymeleaf&logoColor=white)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/SPRINGBOOT-6DB33F.svg?&style=flat&logo=spring-boot&logoColor=white)&nbsp;
-![JPA](https://img.shields.io/badge/DATAJ_PA-6DB33F.svg?&style=flat&logo=spring-boot&logoColor=white)&nbsp;
+![JPA](https://img.shields.io/badge/DATA_JPA-6DB33F.svg?&style=flat&logo=spring-boot&logoColor=white)&nbsp;
 ![SpringSecurity](https://img.shields.io/badge/SPRING_SECURITY-6DB33F.svg?&style=flat&logo=spring-security&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=flat&logo=spring&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/ANDROID-6DB33F.svg?&style=flat&logo=android&logoColor=white)&nbsp;
