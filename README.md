@@ -32,9 +32,8 @@ _My recently published articles_:
 - [Exploring the Best Practices for Organizing a Spring Boot Project](https://chinexboroja24.hashnode.dev/exploring-the-best-practices-for-organizing-a-spring-boot-project)
 - [Understanding Web Accessibility](https://chinexboroja24.hashnode.dev/understanding-web-accessibility)
 <!-- BLOG-POST-LIST:END -->
-  
 
-## Tools and Technologies:
+## :toolbox: Tools and Technologies:
 
 <details>
   <summary><b>:computer: &nbsp;Backend Development Stack</b></summary>
@@ -97,7 +96,7 @@ _My recently published articles_:
 
 </details>
 
-## Github and WakaTime Statistics :gear:
+## :gear: Github and WakaTime Statistics :gear:
 
  <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinex-boroja&theme=nightowl&border_radius=10" />
