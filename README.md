@@ -15,7 +15,6 @@
 ## :handshake: &nbsp;Connect with me
 
 <p align="center">
-  <a href="mailto:ihediohachinedu21@gmail.com?subject=Olá%20Chinedu%20Ihedioha"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/Chinex_Boroja"><img src="https://img.shields.io/badge/twitter-%233B5998.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://chinexboroja24.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-%23dc2645.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@ihediohachinedu21/"><img src="https://img.shields.io/badge/medium-%888888.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
