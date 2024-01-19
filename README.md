@@ -5,11 +5,8 @@
 
 :computer: &nbsp; I am a `Backend Engineer` who is passionate about solving problems and building scalable systems.\
 :seedling: &nbsp; I love writing `Technical Articles` and contributing to `Open Source Projects`.\
-:heartbeat: &nbsp; I love coding challenges, and I am solving `Leetcode` DSA challenges daily.\
 :writing_hand: &nbsp; I hold a Bachelor's Degree in Computer Engineering from [OAU](https://oauife.edu.ng/) .\
-:hammer_and_wrench: &nbsp; My coding journey started in late 2020, which cut across Android Development, Backend, and Frontend Development.\
-:writing_hand: &nbsp; Currently learning Frontend development through a scholarship from [DevCareer Tech Program](https://devcareer.io/government/dctp).\
-:family_man_boy: &nbsp; Fun Fact ⚡: I love frying eggs, and enjoy watching and playing football.\
+:family_man_boy: &nbsp; I love watching and playing football.\
 :palms_up_together: &nbsp; I look forward to collaborating more on exciting projects with `Java`, `Springboot`, `Kotlin`, and `Web development`.
 
 ## :handshake: &nbsp;Connect with me
