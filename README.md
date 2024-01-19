@@ -3,7 +3,7 @@
 
 ## :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:computer: &nbsp; I am a `Backend Engineer` who is passionate about solving problems and building scalable systems.\
+:computer: &nbsp; I am a `Backend Engineer` who is passionate about solving problems and building scalable systems.\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp; I love writing `Technical Articles` and contributing to `Open Source Projects`.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp; I love coding challenges, and I am solving `Leetcode` DSA challenges daily.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp; I hold a Bachelor's Degree in Computer Engineering from [OAU](https://oauife.edu.ng/) .\
