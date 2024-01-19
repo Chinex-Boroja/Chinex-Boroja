@@ -4,13 +4,13 @@
 ## :space_invader: &nbsp;About Me
 
 :computer: &nbsp; I am a `Backend Engineer` who is passionate about solving problems and building scalable systems.\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp; I love writing `Technical Articles` and contributing to `Open Source Projects`.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp; I love coding challenges, and I am solving `Leetcode` DSA challenges daily.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp; I hold a Bachelor's Degree in Computer Engineering from [OAU](https://oauife.edu.ng/) .\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp; My coding journey started in late 2020, which cut across Android Development, Backend, and Frontend Development.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp; Currently learning Frontend development through a scholarship from [DevCareer Tech Program](https://devcareer.io/government/dctp).\
-&nbsp;&nbsp;&nbsp;:family_man_boy: &nbsp; Fun Fact ⚡: I love frying eggs, and enjoy watching and playing football.\
-&nbsp;&nbsp;&nbsp;:palms_up_together: &nbsp; I look forward to collaborating more on exciting projects with `Java`, `Springboot`, `Kotlin`, and `Web development`.
+:seedling: &nbsp; I love writing `Technical Articles` and contributing to `Open Source Projects`.\
+:heartbeat: &nbsp; I love coding challenges, and I am solving `Leetcode` DSA challenges daily.\
+:writing_hand: &nbsp; I hold a Bachelor's Degree in Computer Engineering from [OAU](https://oauife.edu.ng/) .\
+:hammer_and_wrench: &nbsp; My coding journey started in late 2020, which cut across Android Development, Backend, and Frontend Development.\
+:writing_hand: &nbsp; Currently learning Frontend development through a scholarship from [DevCareer Tech Program](https://devcareer.io/government/dctp).\
+:family_man_boy: &nbsp; Fun Fact ⚡: I love frying eggs, and enjoy watching and playing football.\
+:palms_up_together: &nbsp; I look forward to collaborating more on exciting projects with `Java`, `Springboot`, `Kotlin`, and `Web development`.
 
 ## :handshake: &nbsp;Connect with me
 
