@@ -42,9 +42,6 @@ _My recently published articles_:
 ![SpringBoot](https://img.shields.io/badge/SPRINGBOOT-6DB33F.svg?&style=flat&logo=spring-boot&logoColor=white)&nbsp;
 ![SpringSecurity](https://img.shields.io/badge/SPRING_SECURITY-6DB33F.svg?&style=flat&logo=spring-security&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=flat&logo=spring&logoColor=white)&nbsp;
-![Android](https://img.shields.io/badge/ANDROID-6DB33F.svg?&style=flat&logo=android&logoColor=white)&nbsp;
-
-![REST API](https://img.shields.io/badge/REST_API-02569B.svg?&style=flat&logo=rest-api&logoColor=white)&nbsp;
 
 
 </details>
