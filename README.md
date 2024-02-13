@@ -40,20 +40,11 @@ _My recently published articles_:
 ![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
 ![Thymeleaf](https://img.shields.io/badge/THYMELEAF-6DB33F.svg?&style=flat&logo=thymeleaf&logoColor=white)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/SPRINGBOOT-6DB33F.svg?&style=flat&logo=spring-boot&logoColor=white)&nbsp;
-![JPA](https://img.shields.io/badge/DATA_JPA-6DB33F.svg?&style=flat&logo=spring-boot&logoColor=white)&nbsp;
 ![SpringSecurity](https://img.shields.io/badge/SPRING_SECURITY-6DB33F.svg?&style=flat&logo=spring-security&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=flat&logo=spring&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/ANDROID-6DB33F.svg?&style=flat&logo=android&logoColor=white)&nbsp;
-![JUnit](https://img.shields.io/badge/J_UNIT-007396.svg?&style=flat&logo=mockito&logoColor=white)&nbsp;
-![Hibernate](https://img.shields.io/badge/HIBERNATE-121011.svg?&style=flat&logo=red-hat&logoColor=white)&nbsp;
 
 ![REST API](https://img.shields.io/badge/REST_API-02569B.svg?&style=flat&logo=rest-api&logoColor=white)&nbsp;
-![MVC Architecture](https://img.shields.io/badge/MVC-888888.svg?&style=flat&logoColor=white)&nbsp;
-![MVVM Architecture](https://img.shields.io/badge/MVVM-888888.svg?&style=flat&logoColor=white)&nbsp;
-![TDD](https://img.shields.io/badge/TEST%20DD-E34F26.svg?&style=flat&logo=j-unit&logoColor=white)&nbsp;
-![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=agile&logoColor=white)&nbsp;
-![Arduino](https://img.shields.io/badge/ARDUINO-00979D.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;
-![Cpp](https://img.shields.io/badge/C-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 
 
 </details>
@@ -64,7 +55,6 @@ _My recently published articles_:
 
 ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
