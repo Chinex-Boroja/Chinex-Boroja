@@ -83,9 +83,10 @@ _My recently published articles_:
 ## :gear: Github and WakaTime Statistics :gear:
 
  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinex-boroja&theme=nightowl&border_radius=10" /> </p>
-<!--     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=chinex-boroja&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl&border_radius=10" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinex-boroja&hide=html&layout=compact&langs_count=8&theme=nightowl&border_radius=10" />
-    </p> -->
+    <p align="center">
+<!--         <img src="https://github-readme-stats.vercel.app/api?username=chinex-boroja&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl&border_radius=10" />  -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinex-boroja&hide=html&layout=compact&langs_count=8&theme=nightowl&border_radius=10" />
+    </p>
     <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChinexBoroja&theme=nightowl&border_radius=10"/></p>
     
