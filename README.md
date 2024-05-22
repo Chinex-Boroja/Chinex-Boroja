@@ -5,7 +5,7 @@
 
 :computer: &nbsp; I am a `Backend Engineer` who is passionate about solving problems and building scalable systems.\
 :seedling: &nbsp; I love writing `Technical Articles` and contributing to `Open Source Projects`.\
-:writing_hand: &nbsp; I hold a Bachelor's Degree in Computer Engineering from [OAU](https://oauife.edu.ng/) .\
+:writing_hand: &nbsp; I hold a Bachelor's Degree in Computer Engineering.\
 :family_man_boy: &nbsp; I love watching and playing football.\
 :palms_up_together: &nbsp; I look forward to collaborating more on exciting projects with `Java`, `Springboot`, `Kotlin`, and `Web development`.
 
