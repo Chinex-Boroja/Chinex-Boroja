@@ -6,7 +6,7 @@
 :computer: &nbsp; An `Engineer` passionate about solving real world problems.\
 :seedling: &nbsp; Love reading, writing, and also contributing to `Open Source Projects`.\
 :writing_hand: &nbsp; Hold a Bachelor's Degree in Computer Engineering.\
-:family_man_boy: &nbsp; Love watching and playing football.\
+:family_man_boy: &nbsp; Love watching and playing football.
 
 ## :handshake: &nbsp;Connect with me
 
