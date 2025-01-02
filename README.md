@@ -3,11 +3,10 @@
 
 ## :space_invader: &nbsp;About Me
 
-:computer: &nbsp; I am a `Backend Engineer` who is passionate about solving problems and building scalable systems.\
-:seedling: &nbsp; I love writing `Technical Articles` and contributing to `Open Source Projects`.\
-:writing_hand: &nbsp; I hold a Bachelor's Degree in Computer Engineering.\
-:family_man_boy: &nbsp; I love watching and playing football.\
-:palms_up_together: &nbsp; I look forward to collaborating more on exciting projects with `Java`, `Springboot`, `Kotlin`, and `Web development`.
+:computer: &nbsp; An `Engineer` passionate about solving real world problems.\
+:seedling: &nbsp; Love reading, writing, and also contributing to `Open Source Projects`.\
+:writing_hand: &nbsp; Hold a Bachelor's Degree in Computer Engineering.\
+:family_man_boy: &nbsp; Love watching and playing football.\
 
 ## :handshake: &nbsp;Connect with me
 
@@ -60,7 +59,7 @@ _My recently published articles_:
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
 </details>
 
-<details>
+<!--  <details>
   <summary><b>:man_technologist: &nbsp;Frontend Development Stack</b></summary>
   <br/>
  
@@ -68,7 +67,7 @@ _My recently published articles_:
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-</details>
+</details>  -->
 
 <details>
   <summary><b>:man_technologist: &nbsp;Development Environment</b></summary>
