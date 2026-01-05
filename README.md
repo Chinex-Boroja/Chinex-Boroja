@@ -3,7 +3,7 @@
 
 ## :space_invader: &nbsp;About Me
 
-:computer: &nbsp; An `Engineer` passionate about solving real world problems.\
+:computer: &nbsp; An `Engineer` passionate about solving real-world problems.\
 :seedling: &nbsp; Love reading, writing, and also contributing to `Open Source Projects`.\
 :writing_hand: &nbsp; Hold a Bachelor's Degree in Computer Engineering.\
 :family_man_boy: &nbsp; Love watching and playing football.
@@ -19,7 +19,7 @@
 
 ## &#x270d; Blog & Writing
 
-Aside from writing codes, I have an active blog site, where I document my learning milestones and other new things I am learning
+Aside from writing code, I have an active blog site, where I document my learning milestones and other new things I am learning
 
 _My recently published articles_:
 
@@ -79,15 +79,15 @@ _My recently published articles_:
 
 </details>
 
-## :gear: Github and WakaTime Statistics :gear:
+<!-- ## :gear: Github and WakaTime Statistics :gear: -->
 
 <!--         <img src="https://github-readme-stats.vercel.app/api?username=chinex-boroja&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl&border_radius=10" />  -->
-<p align="center">  
+<!-- <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinex-boroja&hide=html&layout=compact&langs_count=8&theme=nightowl&border_radius=10" />
 </p>
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChinexBoroja&theme=nightowl&border_radius=10"/>
-</p>
+</p> -->
     
  <!-- <p align = "center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinex-Boroja&theme=github_dark&border_radius=10" />
@@ -99,7 +99,7 @@ _My recently published articles_:
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=Chinex-Boroja&label=Profile%20views&color=0e75b6&style=flat" alt="ihediohachinedu" />
-<img src="https://badges.pufler.dev/visits/chinex-boroja/chinex-boroja?color=black&logo=github" />
+<!-- <img src="https://badges.pufler.dev/visits/chinex-boroja/chinex-boroja?color=black&logo=github" /> -->
 
 </p>
   
